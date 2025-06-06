@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+aiosqlite
+huggingface_hub
+requests
+beautifulsoup4
+blessed
