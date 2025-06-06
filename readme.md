@@ -99,6 +99,8 @@ The bot uses a `.env` file for configuration.
 
 ### Alien Framework Configuration:
 
+Alien Repo: https://github.com/J4ck3LSyN-Gen2/Alien
+
 The `ALNv2017.py` file contains an internal `self.configure` dictionary. Key settings to review and potentially update within `ALNv2017.py` include:
 *   `ollama-configure`: Paths to the Ollama executable.
 *   `atlas-configure`:
